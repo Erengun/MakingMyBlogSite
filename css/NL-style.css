@@ -1,0 +1,30 @@
+.bk {
+	background-color: #EEF0F7;
+	border: 1px dashed #47649D;
+	padding: 0;
+	width: 160px;
+	margin: 0px;}
+.txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #005284;}
+
+.txtbox {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	padding: 0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;}
+	
+.button {
+	background-color: #005284;
+	border: 1px solid #CCCCCC;
+	padding: 0;
+	color: #fff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;}
+	
+fieldset { 
+	border: 3px solid #fff; 
+	margin: 0;
+	padding: 13;}
