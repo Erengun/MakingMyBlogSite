@@ -1,2 +1,3 @@
 # MakingMyBlogSite
-The design is finished.
+Currently in beta version.
+You can visit the website from https://erengun.github.io/MakingMyBlogSite/
